@@ -4,4 +4,6 @@ Demonstration Video Link: https://drive.google.com/file/d/1SVhQo6WMJr8EzUPJydkn6
 ![](https://raw.githubusercontent.com/smartinternz02/SPSGP-74084-Virtual-Internship---Android-Application-Development-Using-Kotlin/master/cover/front.jpg)
 ![](https://raw.githubusercontent.com/smartinternz02/SPSGP-74084-Virtual-Internship---Android-Application-Development-Using-Kotlin/master/cover/2nd%20front.jpg)
 ![](https://raw.githubusercontent.com/smartinternz02/SPSGP-74084-Virtual-Internship---Android-Application-Development-Using-Kotlin/master/cover/3rd%20front.jpg)
+# Architecture
+------------
 ![](https://raw.githubusercontent.com/smartinternz02/SPSGP-74084-Virtual-Internship---Android-Application-Development-Using-Kotlin/master/cover/architecture.jpg)
