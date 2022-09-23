@@ -2,8 +2,10 @@
 An app to search nearby businesses on Google Maps
 Demonstration Video Link: https://drive.google.com/file/d/1SVhQo6WMJr8EzUPJydkn6kQ3ty90cBhe/view?usp=drivesdk
 ![](https://raw.githubusercontent.com/smartinternz02/SPSGP-74084-Virtual-Internship---Android-Application-Development-Using-Kotlin/master/cover/front.jpg)
+# Screenshot
+ ------------
 ![](https://raw.githubusercontent.com/smartinternz02/SPSGP-74084-Virtual-Internship---Android-Application-Development-Using-Kotlin/master/cover/2nd%20front.jpg)
 ![](https://raw.githubusercontent.com/smartinternz02/SPSGP-74084-Virtual-Internship---Android-Application-Development-Using-Kotlin/master/cover/3rd%20front.jpg)
 # Architecture
-------------
+ ------------
 ![](https://raw.githubusercontent.com/smartinternz02/SPSGP-74084-Virtual-Internship---Android-Application-Development-Using-Kotlin/master/cover/architecture.jpg)
