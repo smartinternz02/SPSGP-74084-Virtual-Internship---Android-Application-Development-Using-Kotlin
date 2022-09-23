@@ -2,7 +2,8 @@
 
 ![](https://raw.githubusercontent.com/smartinternz02/SPSGP-74084-Virtual-Internship---Android-Application-Development-Using-Kotlin/master/cover/front.jpg)
 
-An app to search nearby businesses on Google Maps
+An app to search nearby businesses, restaurants and many more places on Google Map. Here, Place API and Map SDK used in this app.
+
 Demonstration Video Link: https://drive.google.com/file/d/1SVhQo6WMJr8EzUPJydkn6kQ3ty90cBhe/view?usp=drivesdk
 # Screenshots
 
