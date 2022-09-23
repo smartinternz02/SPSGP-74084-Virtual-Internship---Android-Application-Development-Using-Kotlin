@@ -9,3 +9,7 @@ Demonstration Video Link: https://drive.google.com/file/d/1SVhQo6WMJr8EzUPJydkn6
 # Architecture
 
 ![](https://raw.githubusercontent.com/smartinternz02/SPSGP-74084-Virtual-Internship---Android-Application-Development-Using-Kotlin/master/cover/architecture.jpg)
+# Tools used
+
+[Google Cloud](https://cloud.google.com/)
+[Android Studio](https://developer.android.com/studio)
